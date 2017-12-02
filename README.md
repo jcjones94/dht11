@@ -1,2 +1,2 @@
 # dht11
-This is an Arduino library for the DHT11 temperture and humidity sensor
+This is an Arduino library for the dht11 temperture and humidity sensor
